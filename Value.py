@@ -1,1 +1,2 @@
 print (value)
+print (a)
